@@ -1,7 +1,7 @@
 <script>
 	const myEngine = Comunica.newEngine();
 
-	let data = parse(document.body.getAttribute('cv'));
+	let data = parse(document.body.getAttribute('href'));
 
 	async function parse(url) {
 		const person = await parsePerson(url);
