@@ -13,11 +13,6 @@
 
 : 
     a form:Form ;
-    hydra:endpoint <https://hochstenbach.inrupt.net/public/cv.ttl> ;
-    hydra:supportedClass [
-       a hydra:Class ;
-       hydra:method "PUT"
-    ] ;
     form:binding schema:Person .
 
 :name
