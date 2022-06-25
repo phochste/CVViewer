@@ -201,6 +201,7 @@
 </svelte:head>
 
 {#await data}
+<p>..loading..</p>
 {:then cv}
 <div class="container-fluid">
 	<div class="row content">
