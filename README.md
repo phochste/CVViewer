@@ -1,3 +1,5 @@
+We moved to https://codeberg.org/phochste/CVViewer
+
 # CVViewer
 
 A Curriculum Vitae viewer for RDF resources that were created with the [FormViewer](https://formviewer.patrickhochstenbach.ne) app with CV templates.
